@@ -3,11 +3,11 @@ header {
     justify-content: center;
     background-color: lightgray;
     align-items: center;
-    height: 150px;
+    height: 80px;
 }
 
 .logo img {
-    width: 100px;
+    width: 75px;
 }
 
 .navbar-brand {
@@ -32,7 +32,7 @@ header {
 }
 
 .name p {
-    font-size: 55px;
+    font-size: 40px;
     font-family: "Audiowide", sans-serif;
     -webkit-text-fill-color: lightgray;
     -webkit-text-stroke: 4px black;
