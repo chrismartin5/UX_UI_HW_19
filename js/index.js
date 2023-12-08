@@ -1,5 +1,5 @@
 $(".shopSmall img").mouseover(function() {
-    $(".shopSmall img").css({ width: '260px', height: 'auto' });
+    $(".shopSmall img").css({ width: '240px', height: 'auto' });
 });
 
 $(".shopSmall img").mouseout(function() {
@@ -7,7 +7,7 @@ $(".shopSmall img").mouseout(function() {
 });
 
 $(".tailTalk img").mouseover(function() {
-    $(".tailTalk img").css({ width: '260px', height: 'auto' });
+    $(".tailTalk img").css({ width: '240px', height: 'auto' });
 });
 
 $(".tailTalk img").mouseout(function() {
@@ -15,7 +15,7 @@ $(".tailTalk img").mouseout(function() {
 });
 
 $(".ncdsf img").mouseover(function() {
-    $(".ncdsf img").css({ width: '260px', height: 'auto' });
+    $(".ncdsf img").css({ width: '240px', height: 'auto' });
 });
 
 $(".ncdsf img").mouseout(function() {
