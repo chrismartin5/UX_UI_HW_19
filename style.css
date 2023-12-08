@@ -25,6 +25,7 @@ header {
     display: flex;
     justify-content: right;
     padding-right: 150px;
+    font-family: "Barlow", sans-serif;
 }
 
 .nav-link {
@@ -115,10 +116,6 @@ h2 {
     width: 800px;
 }
 
-p, button, footer, figcaption {
-    font-family: "Barlow", sans-serif;
-}
-
 .mainLinks {
     color: black;
 }
@@ -133,8 +130,9 @@ p, button, footer, figcaption {
 }
 
 .projectTitle {
-    font-size: x-large;
     display: flex;
+    font-size: x-large;
+    font-family: "Barlow", sans-serif;
     justify-content: center;
 }
 
